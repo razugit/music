@@ -6,6 +6,8 @@
     padding: 30px;
     margin: 20px;
     border-radius: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 
 }
 img{
@@ -14,4 +16,7 @@ img{
 #heading{
     font-size: 80px;
     
+}
+p{
+    text-align: justify;
 }
