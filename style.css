@@ -1,0 +1,17 @@
+.myself{
+    background-color: brown;
+    color: white;
+    text-align: center;
+    border: 5px solid brown;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 20px;
+
+}
+img{
+    width: 60%;
+}
+#heading{
+    font-size: 80px;
+    
+}
